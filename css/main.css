@@ -33,3 +33,10 @@ footer{
   border-top: 2px solid #ff6347;
   font-size: 1em;
 }
+ul.posts{
+  margin: 10px auto 20px;
+  font-size: 1.25em;
+}
+ul-posts li{
+  list-style: none;
+}
